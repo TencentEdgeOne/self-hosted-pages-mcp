@@ -1,0 +1,12 @@
+{
+  "name": "self-hosted-pages-mcp",
+  "version": "0.1.0",
+  "scripts": {},
+  "dependencies": {
+    "nanoid": "^5.1.5"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "typescript": "^5"
+  }
+}
